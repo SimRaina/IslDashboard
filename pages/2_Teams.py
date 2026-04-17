@@ -85,7 +85,7 @@ st.markdown("---")
 team_social = teams_socials[teams_socials["team_name"] == team_selected]
 if len(team_social) > 0:
     team_social = team_social.iloc[0]
-    st.subheader("📱 Follow Us")
+    st.subheader("📱 Team Socials")
     
     social_cols = st.columns(5)
     
