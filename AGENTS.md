@@ -10,7 +10,7 @@
 ### 1. Data Loading Pipeline
 - **Entry Point**: `utils/loader.py` - `load_data()` function
 - **Data Source**: Four CSV files in `data/` directory:
-  - `teams.csv` - 16 ISL teams with: team_id, team_name, city, logo_path, coach, stadium
+  - `teams.csv` - 14 ISL teams with: team_id, team_name, city, logo_path, coach, stadium
   - `players.csv` - Active player roster with: player_id, name, team, position, goals, assists, minutes, nationality, age
   - `matches.csv` - Match records with: match_status (completed/upcoming), home_team, away_team, home_goals, away_goals, season, date
   - `seasons.csv` - Season metadata: season, winner, top_scorer, top_goals
