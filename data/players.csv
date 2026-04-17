@@ -1,0 +1,286 @@
+﻿player_id,name,team,position,goals,assists,minutes,nationality,age
+1,Lallianzuala Chhangte,Mumbai City FC,Midfielder,3,0,540,India,28
+2,Phurba Lachenpa,Mumbai City FC,Goalkeeper,0,0,540,India,28
+3,Akash Mishra,Mumbai City FC,Defender,0,1,540,India,24
+4,Nuno Reis,Mumbai City FC,Defender,0,0,540,Portugal,35
+5,Hmingthanmawia Ralte,Mumbai City FC,Defender,0,0,539,India,25
+6,Joni Kauko,Mumbai City FC,Midfielder,0,1,478,Finland,35
+7,Lalnuntluanga,Mumbai City FC,Midfielder,0,0,475,India,26
+8,Jorge Pereyra Díaz,Mumbai City FC,Forward,1,0,369,Argentina,35
+9,Brandon Fernandes,Mumbai City FC,Midfielder,0,1,336,India,31
+10,Sahil Panwar,Mumbai City FC,Defender,0,0,301,India,26
+11,Noufal P.N,Mumbai City FC,Midfielder,3,0,280,India,25
+12,Jorge Ortiz Mendoza,Mumbai City FC,Forward,0,1,209,Spain,33
+13,Vikram Singh,Mumbai City FC,Midfielder,0,0,280,India,24
+14,Bijay Chhetri,Mumbai City FC,Defender,0,0,239,India,24
+15,Ayush Chhikara,Mumbai City FC,Forward,0,0,95,India,23
+16,Zothanpuia II,Mumbai City FC,Defender,0,0,127,India,31
+17,Franklin Nazareth,Mumbai City FC,Midfielder,0,0,38,India,22
+18,Amandeep,Mumbai City FC,Defender,0,0,9,India,21
+19,Sanjeev Stalin,Mumbai City FC,Midfielder,0,0,4,India,25
+20,Alberto,Mohun Bagan Super Giants,Defender,1,0,540,Spain,33
+21,Lalengmawia Apuia,Mohun Bagan Super Giants,Midfielder,0,0,540,India,25
+22,Vishal Kaith,Mohun Bagan Super Giants,Goalkeeper,0,0,540,India,29
+23,Abhishek Singh,Mohun Bagan Super Giants,Defender,0,1,537,India,21
+24,Jamie Maclaren,Mohun Bagan Super Giants,Forward,7,0,527,Australia,32
+25,Anirudh Thapa,Mohun Bagan Super Giants,Midfielder,0,2,459,India,28
+26,Dimitri Petratos,Mohun Bagan Super Giants,Midfielder,2,1,481,Australia,33
+27,Liston Colaco,Mohun Bagan Super Giants,Midfielder,0,2,466,India,27
+28,Subashish Bose,Mohun Bagan Super Giants,Defender,0,2,369,India,30
+29,Mehtab Singh,Mohun Bagan Super Giants,Defender,0,0,305,India,27
+30,Robinho,Mohun Bagan Super Giants,Midfielder,2,0,249,Brazil,31
+31,Jason Cummings,Mohun Bagan Super Giants,Midfielder,0,0,177,Australia,30
+32,Manvir Singh,Mohun Bagan Super Giants,Midfielder,1,1,233,India,30
+33,Tom Aldred,Mohun Bagan Super Giants,Defender,1,0,175,Scotland,35
+34,Amey Ranawade,Mohun Bagan Super Giants,Defender,0,0,157,India,28
+35,Deepak Tangri,Mohun Bagan Super Giants,Defender,0,0,112,India,27
+36,Sahal Abdul Samad,Mohun Bagan Super Giants,Midfielder,0,0,58,India,28
+37,Kiyan Nassiri,Mohun Bagan Super Giants,Forward,0,0,15,India,25
+38,Nikhil Barla,Jamshedpur FC,Defender,0,0,540,India,22
+39,Pratik Chowdhary,Jamshedpur FC,Defender,0,0,540,India,36
+40,Stephen Eze,Jamshedpur FC,Defender,2,0,540,Nigeria,32
+41,Albino Gomes,Jamshedpur FC,Goalkeeper,0,0,540,India,32
+42,Raphaël Messi Bouli,Jamshedpur FC,Forward,1,0,536,Cameroon,33
+43,Mohammed Sanan,Jamshedpur FC,Midfielder,0,0,515,India,21
+44,Zothanpuia Mark,Jamshedpur FC,Defender,0,0,513,India,23
+45,Pronay Halder,Jamshedpur FC,Midfielder,0,1,474,India,33
+46,Nikola Stojanovi?,Jamshedpur FC,Midfielder,1,1,431,Serbia,31
+47,Madih Talal,Jamshedpur FC,Midfielder,1,2,360,France,28
+48,Rei Tachikawa,Jamshedpur FC,Midfielder,1,0,269,Japan,28
+49,Ritwik Das,Jamshedpur FC,Midfielder,0,1,181,India,29
+50,Vincy Barretto,Jamshedpur FC,Midfielder,1,0,158,India,26
+51,Manvir Singh,Jamshedpur FC,Midfielder,0,0,84,India,24
+52,Rosenberg Gabriel,Jamshedpur FC,Midfielder,0,0,74,India,27
+53,Lalhriatpuia Chawngthu,Jamshedpur FC,Midfielder,0,0,62,India,20
+54,Sarthak Golui,Jamshedpur FC,Defender,0,0,27,India,28
+55,Lazar ?irkovi?,Jamshedpur FC,Defender,0,0,24,Serbia,33
+56,Anwar Ali,East Bengal FC,Defender,2,1,540,India,25
+57,Mohammed Rashid,East Bengal FC,Midfielder,0,1,540,Palestine,30
+58,Prabhsukhan Singh,East Bengal FC,Goalkeeper,0,0,540,India,25
+59,Miguel Figueira,East Bengal FC,Midfielder,2,1,527,Brazil,25
+60,Jeakson Singh,East Bengal FC,Defender,0,0,494,India,24
+61,Youssef Ezzejjari,East Bengal FC,Forward,7,0,492,Spain,32
+62,Bipin Singh,East Bengal FC,Midfielder,0,1,451,India,31
+63,Edmund Lalrindika,East Bengal FC,Midfielder,2,0,337,India,26
+64,Lalchungnunga,East Bengal FC,Defender,0,0,280,India,25
+65,Jay Gupta,East Bengal FC,Defender,0,1,354,India,24
+66,Mohamad Rakip,East Bengal FC,Defender,0,0,349,India,25
+67,Saúl Crespo,East Bengal FC,Midfielder,1,0,205,Spain,29
+68,Vishnu PV,East Bengal FC,Defender,1,1,286,India,24
+69,Nanda Kumar,East Bengal FC,Midfielder,1,0,168,India,30
+70,Anton Søjberg,East Bengal FC,Midfielder,0,0,116,Denmark,25
+71,Mahesh Singh,East Bengal FC,Midfielder,0,1,109,India,27
+72,Souvik Chakrabarti,East Bengal FC,Defender,0,1,100,India,38
+73,David Lalhlansanga,East Bengal FC,Forward,0,0,50,India,24
+74,Martand Raina,East Bengal FC,Defender,0,0,2,India,25
+75,Nikhil Poojari,Bengaluru FC,Defender,0,2,540,India,30
+76,Gurpreet Singh Sandhu,Bengaluru FC,Goalkeeper,0,0,540,India,34
+77,Roshan Singh,Bengaluru FC,Defender,0,0,539,India,27
+78,Brían Sánchez,Bengaluru FC,Midfielder,3,0,497,Argentina,32
+79,Konsham Singh,Bengaluru FC,Defender,0,0,495,India,29
+80,Lalremtluanga Fanai,Bengaluru FC,Midfielder,0,1,466,India,21
+81,Ashique Kuruniyan,Bengaluru FC,Midfielder,2,1,461,India,28
+82,Ryan Williams,Bengaluru FC,Forward,1,0,436,Australia,32
+83,Rahul Bheke,Bengaluru FC,Defender,0,0,360,India,35
+84,Sirojiddin Quziyev,Bengaluru FC,Midfielder,0,0,323,Uzbekistan,29
+85,Sunil Chhetri,Bengaluru FC,Forward,1,0,308,India,41
+86,Suresh Singh,Bengaluru FC,Midfielder,0,0,284,India,25
+87,Siva Sakthi,Bengaluru FC,Forward,1,0,214,India,24
+88,Bungson Singh,Bengaluru FC,Defender,0,0,180,India,19
+89,Namgyal Bhutia,Bengaluru FC,Midfielder,0,0,77,India,26
+90,Vinith Venkatesh,Bengaluru FC,Midfielder,0,0,78,India,20
+91,Ricky Meetei,Bengaluru FC,Defender,0,0,46,India,19
+92,Rishi Singh,Bengaluru FC,Midfielder,0,0,42,India,25
+93,Monirul Molla,Bengaluru FC,Forward,0,0,31,India,20
+94,Soham Varshneya,Bengaluru FC,Midfielder,0,0,15,India,21
+95,Chingangbam Shivaldo,Bengaluru FC,Defender,0,0,8,India,21
+96,Sandesh Jhingan,FC Goa,Defender,1,0,540,India,32
+97,Pol Moreno,FC Goa,Defender,1,0,540,Spain,31
+98,Aakash Sangwan,FC Goa,Defender,0,1,540,India,30
+99,Hrithik Tiwari,FC Goa,Goalkeeper,0,0,540,India,24
+100,Dejan Draži,FC Goa,Forward,4,2,539,Serbia,30
+101,Udanta Singh,FC Goa,Midfielder,0,0,534,India,29
+102,Brison Fernandes,FC Goa,Midfielder,0,1,509,India,24
+103,Boris Singh,FC Goa,Defender,0,0,477,India,26
+104,Ayush Chhetri,FC Goa,Midfielder,0,0,432,India,22
+105,Sahil Tavora,FC Goa,Midfielder,0,0,444,India,30
+106,Ishan Pandita,FC Goa,Forward,0,0,199,India,27
+107,Muhammed Nemil,FC Goa,Forward,0,0,153,India,24
+108,Yasir Mohammad,FC Goa,Midfielder,0,0,76,India,26
+109,Prachit Vishwas,FC Goa,Midfielder,0,0,45,India,19
+110,Abdul Rabeeh A K,FC Goa,Midfielder,0,0,176,India,25
+111,Raynier Fernandes,FC Goa,Midfielder,0,0,121,India,30
+112,Daniel Lalhlimpuia,FC Goa,Forward,0,0,42,India,28
+113,Harsh Shailesh Patre,FC Goa,Midfielder,0,0,33,India,23
+114,Khaiminthang Lhungdim,Punjab FC,Defender,0,1,450,India,25
+115,Arshdeep Singh,Punjab FC,Goalkeeper,0,0,450,India,28
+116,Muhammed Uvais,Punjab FC,Defender,0,0,450,India,27
+117,Bijoy Varghese,Punjab FC,Defender,0,0,450,India,26
+118,Ricky John Shabong,Punjab FC,Midfielder,0,0,444,India,23
+119,Dani Ramírez,Punjab FC,Midfielder,1,1,363,Spain,33
+120,Pablo Santos,Punjab FC,Defender,0,0,326,Brazil,34
+121,Nsungusi Jnr Effiong,Punjab FC,Forward,4,0,317,Nigeria,26
+122,Manglenthang Kipgen,Punjab FC,Midfielder,0,2,314,India,20
+123,Samir Zeljkovi?,Punjab FC,Midfielder,1,1,329,Bosnia and Herzegovina,28
+124,Bede Amarachi Osuji,Punjab FC,Midfielder,1,0,248,Nigeria,30
+125,Muhammed Suhail,Punjab FC,Midfielder,0,1,188,India,19
+126,Nikhil Prabhu,Punjab FC,Midfielder,0,0,90,India,25
+127,Leon Augustine,Punjab FC,Midfielder,0,0,168,India,27
+128,Sagolsem Bikash Singh,Punjab FC,Midfielder,0,0,97,India,25
+129,Pramveer Ranbir,Punjab FC,Defender,0,0,69,India,18
+130,Nongmeikapam Meitei,Punjab FC,Defender,0,0,55,India,31
+131,Princeton Rebello,Punjab FC,Midfielder,0,0,50,India,27
+132,Ninthoinganba Meetei,Punjab FC,Midfielder,0,0,27,India,24
+133,Vinit Rai,Punjab FC,Midfielder,0,0,22,India,28
+134,Gurmeet Singh,NorthEast United,Goalkeeper,0,0,540,India,26
+135,Andy,NorthEast United,Midfielder,2,0,535,Spain,36
+136,Buanthanglun Samte,NorthEast United,Defender,0,0,523,India,26
+137,Mayakkannan,NorthEast United,Midfielder,0,0,485,India,28
+138,Jithin M.S.,NorthEast United,Midfielder,1,0,480,India,28
+139,Parthib Sundar Gogoi,NorthEast United,Midfielder,1,1,470,India,23
+140,Asheer Akhtar,NorthEast United,Defender,0,1,495,India,31
+141,Macarton Louis Nickson,NorthEast United,Midfielder,1,0,416,India,22
+142,Míchel Zabaco,NorthEast United,Defender,0,0,398,Spain,37
+143,Redeem Tlang,NorthEast United,Defender,0,0,311,India,31
+144,Danny Meitei,NorthEast United,Forward,0,0,235,India,18
+145,Lalrinzuala Lalbiaknia,NorthEast United,Forward,1,2,200,India,25
+146,Soraisham Dinesh Singh,NorthEast United,Defender,0,0,188,India,28
+147,Jairo Samperio,NorthEast United,Midfielder,0,0,180,Spain,32
+148,Bekey Oram,NorthEast United,Midfielder,0,0,179,India,22
+149,Robin Yadav,NorthEast United,Defender,0,0,89,India,24
+150,Thoi Singh,NorthEast United,Forward,0,0,68,India,21
+151,Ankith Padmanabhan,NorthEast United,Forward,0,0,58,India,24
+152,Lalbiakdika Vanlalvunga,NorthEast United,Forward,0,0,34,India,26
+153,Fredy Chawngthansanga,NorthEast United,Forward,0,0,1,India,22
+154,Rahim Ali,Odisha FC,Forward,1,2,360,India,25
+155,Carlos Delgado,Odisha FC,Defender,1,0,360,Spain,35
+156,Amrinder Singh,Odisha FC,Goalkeeper,0,0,360,India,32
+157,Thoiba Singh,Odisha FC,Defender,0,1,360,India,23
+158,Vanlalzuidika,Odisha FC,Defender,0,0,360,India,28
+159,K Lalthathanga,Odisha FC,Midfielder,0,1,351,India,27
+160,Isak Vanlalruatfela,Odisha FC,Midfielder,0,0,351,India,24
+161,Rahul KP,Odisha FC,Midfielder,2,0,334,India,26
+162,Rohit Kumar,Odisha FC,Midfielder,0,0,297,India,29
+163,Suhair V.P.,Odisha FC,Forward,0,0,211,India,33
+164,Saviour Gama,Odisha FC,Defender,0,0,180,India,28
+165,K Lalrinfela,Odisha FC,Midfielder,0,1,89,India,26
+166,Subham Bhattacharya,Odisha FC,Defender,1,0,55,India,19
+167,Saurabh Bhanwala,Odisha FC,Defender,0,0,45,India,26
+168,Hitesh Sharma,Odisha FC,Midfielder,0,0,77,India,28
+169,Edwin Sydney Vanspaul,Odisha FC,Defender,0,0,70,India,33
+170,Jeremy Zohminghlua,Odisha FC,Defender,0,0,68,India,21
+171,Aphaoba Singh,Odisha FC,Forward,0,0,16,India,22
+172,Narendra Naik,Odisha FC,Midfielder,0,0,9,India,21
+173,Kartik Hantal,Odisha FC,Forward,0,0,6,India,24
+174,Tankadhar Bag,Odisha FC,Defender,0,0,1,India,22
+175,Pritam Kotal,Chennayin FC,Defender,0,0,450,India,32
+176,Alberto Noguera,Chennayin FC,Midfielder,0,1,450,Spain,36
+177,Laldinliana Renthlei,Chennayin FC,Defender,0,0,450,India,27
+178,Elson José Dias Júnior,Chennayin FC,Defender,1,0,401,Brazil,34
+179,Mohammad Nawaz,Chennayin FC,Goalkeeper,0,0,392,India,26
+180,Mandar Rao Dessai,Chennayin FC,Defender,0,0,385,India,34
+181,Mohammed Ali Bemammer,Chennayin FC,Midfielder,0,0,360,Morocco,36
+182,Imran Khan,Chennayin FC,Midfielder,1,0,307,India,31
+183,Iñigo Martín,Chennayin FC,Forward,0,0,284,Spain,26
+184,Irfan Yadwad,Chennayin FC,Midfielder,1,0,304,India,24
+185,Farukh Choudhary,Chennayin FC,Midfielder,0,1,274,India,29
+186,Maheson Singh,Chennayin FC,Midfielder,0,0,199,India,21
+187,Lalrinliana Hnamte,Chennayin FC,Midfielder,0,0,227,India,22
+188,Eduardo Kau,Chennayin FC,Defender,0,0,159,Brazil,27
+189,Daniel Chima Chukwu,Chennayin FC,Forward,0,0,35,Nigeria,34
+190,Vivek S,Chennayin FC,Forward,0,0,62,India,21
+191,Gurkirat Singh,Chennayin FC,Defender,0,0,61,India,22
+192,Samik Mitra,Chennayin FC,Goalkeeper,0,0,58,India,25
+193,Klusner Pereira,Chennayin FC,Defender,0,0,56,India,28
+194,Vignesh Dakshina Murthy,Chennayin FC,Defender,0,0,29,India,28
+195,Laldinpuia PC,Chennayin FC,Defender,0,0,4,India,29
+196,Jiteshwor Singh,Chennayin FC,Midfielder,0,0,3,India,24
+197,Sergio Llamas,Inter Kashi FC,Midfielder,0,0,540,Spain,33
+198,Lluis Tarrés Campos,Inter Kashi FC,Goalkeeper,0,0,529,Spain,25
+199,Rohit Danu,Inter Kashi FC,Midfielder,1,1,507,India,23
+200,Alfred Planas,Inter Kashi FC,Forward,2,1,504,Spain,30
+201,Haobam Tomba Singh,Inter Kashi FC,Midfielder,0,1,490,India,23
+202,Bilel Saidani,Inter Kashi FC,Defender,0,1,473,India,32
+203,Nishchal Chandan,Inter Kashi FC,Defender,0,0,437,India,26
+204,Sumeet Passi,Inter Kashi FC,Midfielder,0,0,412,India,31
+205,Nauris Petkevi?ius,Inter Kashi FC,Forward,1,1,406,Lithuania,26
+206,Wayne Vaz,Inter Kashi FC,Defender,0,0,395,India,27
+207,Prasanth Karuthadathkuni,Inter Kashi FC,Midfielder,1,0,369,India,28
+208,Prabir Das,Inter Kashi FC,Defender,0,0,225,India,32
+209,Narender Gahlot,Inter Kashi FC,Defender,0,0,180,India,24
+210,David Humanes,Inter Kashi FC,Defender,0,0,147,Spain,29
+211,Nishu Kumar,Inter Kashi FC,Defender,0,0,128,India,28
+212,Ashish Jha,Inter Kashi FC,Forward,0,0,71,India,26
+213,Jayesh Rane,Inter Kashi FC,Forward,0,0,53,India,34
+214,Mohammad Asif Khan,Inter Kashi FC,Midfielder,0,0,33,India,25
+215,Karthik Panicker,Inter Kashi FC,Midfielder,0,0,15,India,23
+216,Subham Das,Inter Kashi FC,Goalkeeper,0,0,8,India,27
+217,Seiminlen Doungel,Inter Kashi FC,Forward,0,0,7,India,32
+218,Rafael Ribeiro,SC Delhi,Defender,0,1,450,Brazil,30
+219,Abdul-Halik Hudu,SC Delhi,Midfielder,0,0,449,Ghana,26
+220,Augustine Lalrochana,SC Delhi,Midfielder,1,0,447,India,21
+221,Lamgoulen Gogou Hangshing,SC Delhi,Defender,0,0,445,India,28
+222,Matija Babovi?,SC Delhi,Forward,1,1,418,Serbia,27
+223,Manoj Mohammed,SC Delhi,Defender,1,0,405,India,27
+224,Mohammed Azhar,SC Delhi,Midfielder,0,0,345,India,23
+225,Joseph Sunny,SC Delhi,Forward,1,0,269,India,22
+226,Nora Fernandes,SC Delhi,Goalkeeper,0,0,270,India,27
+227,Alex Saji,SC Delhi,Defender,0,0,270,India,25
+228,Mohammed Aimen,SC Delhi,Midfielder,0,1,234,India,23
+229,Clarence Fernandes,SC Delhi,Defender,0,0,180,India,21
+230,Vishal Yadav,SC Delhi,Goalkeeper,0,0,180,India,23
+231,Ramhlunchhunga,SC Delhi,Forward,0,0,157,India,24
+232,Devendra Murgaokar,SC Delhi,Forward,0,0,132,India,27
+233,Ousmane Fané,SC Delhi,Midfielder,0,0,87,France,32
+234,Ayush Adhikari,SC Delhi,Midfielder,0,0,62,India,25
+235,Sanatomba Singh,SC Delhi,Defender,0,0,45,India,19
+236,Alan Saji,SC Delhi,Forward,0,0,36,India,19
+237,Isaac Vanmalsawma,SC Delhi,Midfielder,0,0,30,India,29
+238,Julio Rivas,SC Delhi,Forward,0,0,28,,
+239,Ashutosh Mehta,SC Delhi,Defender,0,0,8,India,35
+240,Ebenezer Amoh,SC Delhi,Forward,0,0,1,Ghana,21
+241,Akshat Mehra,SC Delhi,Defender,0,0,1,India,19
+242,Kharon Subba,SC Delhi,Midfielder,0,0,1,India,20
+243,Naocha Singh,Kerala Blasters,Defender,0,0,495,India,26
+244,Arsh Anwer,Kerala Blasters,Goalkeeper,0,0,450,India,23
+245,Danish Farooq,Kerala Blasters,Midfielder,0,0,373,India,29
+246,Kévin Yoke,Kerala Blasters,Midfielder,0,0,439,,29
+247,Sandeep Singh,Kerala Blasters,Defender,0,0,379,India,31
+248,Víctor Bertomeu,Kerala Blasters,Forward,1,0,333,Spain,33
+249,Vibin Mohanan,Kerala Blasters,Midfielder,0,0,263,India,23
+250,Aibanbha Dohling,Kerala Blasters,Defender,0,0,254,India,30
+251,Ebindas Y,Kerala Blasters,Midfielder,0,2,323,India,20
+252,Muhammad Ajsal,Kerala Blasters,Forward,1,0,312,India,22
+253,Korou Singh,Kerala Blasters,Forward,0,0,270,India,19
+254,Hormipam Ruivah,Kerala Blasters,Defender,0,0,269,India,25
+255,Nihal Sudeesh,Kerala Blasters,Midfielder,0,0,238,India,24
+256,Bikash Yumnam,Kerala Blasters,Defender,0,0,232,India,22
+257,Oumar Bah,Kerala Blasters,Defender,0,0,221,Spain,31
+258,Matías Hernández,Kerala Blasters,Midfielder,0,0,181,Spain,28
+259,Fallou Ndiaye,Kerala Blasters,Defender,1,0,180,Senegal,24
+260,Muhammed Saheef,Kerala Blasters,Defender,0,0,136,India,23
+261,Rowllin Borges,Kerala Blasters,Midfielder,0,0,90,India,33
+262,Marlon Roos Trujillo,Kerala Blasters,Midfielder,0,0,276,Germany,22
+263,Sachin Suresh,Kerala Blasters,Goalkeeper,0,0,90,India,25
+264,Jai Quitongo,Kerala Blasters,Forward,0,1,113,Scotland,28
+265,Sreekuttan MS,Kerala Blasters,Forward,0,0,12,India,21
+266,Freddy Lallawmawma,Kerala Blasters,Midfielder,0,0,10,India,23
+267,Gaurav Bora,Mohammedan SC,Defender,0,0,450,India,27
+268,Amarjit Singh,Mohammedan SC,Midfielder,0,0,450,India,25
+269,Dinesh Meitei,Mohammedan SC,Defender,0,0,418,India,20
+270,Mahitosh Roy,Mohammedan SC,Midfielder,1,0,414,India,27
+271,Sajad Hussain Parray,Mohammedan SC,Defender,0,0,405,India,22
+272,Adison Singh,Mohammedan SC,Midfielder,0,0,307,India,21
+273,Lalthankima,Mohammedan SC,Midfielder,1,0,312,India,20
+274,Tangva Ragui,Mohammedan SC,Midfielder,0,0,263,India,22
+275,Hira Mondal,Mohammedan SC,Defender,0,0,347,India,29
+276,Subhajit Bhattacharjee,Mohammedan SC,Goalkeeper,0,0,270,India,24
+277,Lalremsanga Fanai,Mohammedan SC,Midfielder,0,0,217,India,24
+278,Padam Chettri,Mohammedan SC,Goalkeeper,0,0,180,India,28
+279,Israfil Dewan,Mohammedan SC,Forward,0,0,177,India,25
+280,Joseph Lalmuanawma,Mohammedan SC,Defender,0,0,123,India,21
+281,Fardin Molla,Mohammedan SC,Forward,0,0,195,India,23
+282,Lalngaihsaka,Mohammedan SC,Forward,0,1,183,India,19
+283,Makan Chote,Mohammedan SC,Midfielder,0,0,91,India,26
+284,Juwel Mazumder,Mohammedan SC,Defender,0,0,52,India,27
+285,Rochharzela,Mohammedan SC,Midfielder,0,0,40,India,27
