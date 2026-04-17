@@ -1,3 +1,6 @@
+This Streamlit app is live on Streamlit Cloud:
+https://isldashboard.streamlit.app/
+
 # ⚽ Indian Super League Dashboard
 
 A comprehensive Streamlit dashboard for exploring Indian Super League (ISL) tournament data for the 2025-26 season. View team standings, player statistics, match fixtures, and advanced analytics in one place.
