@@ -65,6 +65,13 @@ with st.expander("📱 **All Pages** (Click to expand)", expanded=True):
     #### **Analysis & Insights**
     - **Seasons** - Historical season data and yearly comparisons
     - **Fixtures** - Match schedule, results, and head-to-head history
+    - **MPLSoccer Charts** - Advanced football analytics visualizations
+        - Bumpy charts for team position trends
+        - Heat maps for player activity analysis
+        - Pass maps for ball progression patterns
+        - Shot maps with expected goals (xG)
+        - Radar charts for player/team comparisons
+        - Pizza charts for tactical analysis
     
     #### **Professional Scouting**
     - **Scouting Report** - Generate professional player evaluation reports
