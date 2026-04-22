@@ -4,11 +4,11 @@ import streamlit as st
 @st.cache_data
 def load_data():
     """Load all data from CSV files with caching."""
-    teams = pd.read_csv("data/teams.csv")
-    players = pd.read_csv("data/players.csv")
-    matches = pd.read_csv("data/matches.csv")
-    seasons = pd.read_csv("data/seasons.csv")
-    teams_socials = pd.read_csv("data/teams_socials.csv")
+    teams = pd.read_csv("data/teams.csv", encoding="latin-1")
+    players = pd.read_csv("data/players.csv", encoding="latin-1")
+    matches = pd.read_csv("data/matches.csv", encoding="latin-1")
+    seasons = pd.read_csv("data/seasons.csv", encoding="latin-1")
+    teams_socials = pd.read_csv("data/teams_socials.csv", encoding="latin-1")
 
     return teams, players, matches, seasons, teams_socials
 
