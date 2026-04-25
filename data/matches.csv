@@ -62,7 +62,7 @@ match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,ma
 61,2025-26,Chennayin FC,Mohammedan SC,0,0,21-04-2026,JLN Stadium Chennai,5,completed
 62,2025-26,Kerala Blasters,Odisha FC,2,1,23-04-2026,JLN Stadium Kochi,10,completed
 63,2025-26,NorthEast United,FC Goa,0,2,24-04-2026,Indira Gandhi Athletic Stadium,10,completed
-64,2025-26,Bengaluru FC,Mumbai City FC,,,25-04-2026,Sree Kanteerava Stadium,10,upcoming
+64,2025-26,Bengaluru FC,Mumbai City FC,0,0,25-04-2026,Sree Kanteerava Stadium,10,completed
 65,2025-26,Jamshedpur FC,Chennayin FC,,,25-04-2026,JRD Tata Sports Complex,10,upcoming
 66,2025-26,Sporting Delhi,Mohammedan SC,,,26-04-2026,JLN Stadium Delhi,10,upcoming
 67,2025-26,East Bengal FC,Odisha FC,,,28-04-2026,Salt Lake Stadium Kolkata,11,upcoming
@@ -72,22 +72,21 @@ match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,ma
 71,2025-26,Odisha FC,Bengaluru FC,,,04-05-2026,Kalinga Stadium,11,upcoming
 72,2025-26,Punjab FC,Chennayin FC,,,06-05-2026,JLN Stadium Delhi,12,upcoming
 73,2025-26,Sporting Delhi,Odisha FC,,,08-05-2026,JLN Stadium Delhi,5,upcoming
-74,2025-26,Sporting Delhi,Odisha FC,,,08-05-2026,JLN Stadium Delhi,5,upcoming
-75,2025-26,Mumbai City FC,East Bengal FC,,,08-05-2026,Mumbai Football Arena,12,upcoming
-76,2025-26,FC Goa,Mohun Bagan Super Giants,,,09-05-2026,JLN Stadium Fatorada,12,upcoming
-77,2025-26,Jamshedpur FC,Bengaluru FC,,,09-05-2026,JRD Tata Sports Complex,12,upcoming
-78,2025-26,Kerala Blasters,Mohammedan SC,,,10-05-2026,JLN Stadium Kochi,12,upcoming
-79,2025-26,NorthEast United,Chennayin FC,,,10-05-2026,Indira Gandhi Athletic Stadium,12,upcoming
-80,2025-26,East Bengal FC,Punjab FC,,,11-05-2026,Salt Lake Stadium Kolkata,10,upcoming
-81,2025-26,Mohun Bagan Super Giants,Inter Kashi,,,12-05-2026,Salt Lake Stadium Kolkata,10,upcoming
-82,2025-26,Mohammedan SC,Mumbai City FC,,,15-05-2026,Kishore Bharati Krirangan,11,upcoming
-83,2025-26,Odisha FC,Punjab FC,,,16-05-2026,Kalinga Stadium,1,upcoming
-84,2025-26,Mohun Bagan Super Giants,East Bengal FC,,,17-05-2026,Salt Lake Stadium Kolkata,11,upcoming
-85,2025-26,Sporting Delhi,Inter Kashi,,,17-05-2026,JLN Stadium Delhi,12,upcoming
-86,2025-26,Kerala Blasters,FC Goa,,,17-05-2026,JLN Stadium Kochi,13,upcoming
-87,2025-26,Chennayin FC,Bengaluru FC,,,17-05-2026,JLN Stadium Chennai,13,upcoming
-88,2025-26,NorthEast United,Mohammedan SC,,,17-05-2026,Indira Gandhi Athletic Stadium,13,upcoming
-89,2025-26,Jamshedpur FC,Odisha FC,,,17-05-2026,JRD Tata Sports Complex,13,upcoming
-90,2025-26,Inter Kashi,East Bengal FC,,,17-05-2026,Kishore Bharati Krirangan,13,upcoming
-91,2025-26,Mohun Bagan Super Giants,Sporting Delhi,,,17-05-2026,Salt Lake Stadium Kolkata,13,upcoming
-92,2025-26,Punjab FC,Mumbai City FC,,,17-05-2026,JLN Stadium Delhi,13,upcoming
+74,2025-26,Mumbai City FC,East Bengal FC,,,08-05-2026,Mumbai Football Arena,12,upcoming
+75,2025-26,FC Goa,Mohun Bagan Super Giants,,,09-05-2026,JLN Stadium Fatorada,12,upcoming
+76,2025-26,Jamshedpur FC,Bengaluru FC,,,09-05-2026,JRD Tata Sports Complex,12,upcoming
+77,2025-26,Kerala Blasters,Mohammedan SC,,,10-05-2026,JLN Stadium Kochi,12,upcoming
+78,2025-26,NorthEast United,Chennayin FC,,,10-05-2026,Indira Gandhi Athletic Stadium,12,upcoming
+79,2025-26,East Bengal FC,Punjab FC,,,11-05-2026,Salt Lake Stadium Kolkata,10,upcoming
+80,2025-26,Mohun Bagan Super Giants,Inter Kashi,,,12-05-2026,Salt Lake Stadium Kolkata,10,upcoming
+81,2025-26,Mohammedan SC,Mumbai City FC,,,15-05-2026,Kishore Bharati Krirangan,11,upcoming
+82,2025-26,Odisha FC,Punjab FC,,,16-05-2026,Kalinga Stadium,1,upcoming
+83,2025-26,Mohun Bagan Super Giants,East Bengal FC,,,17-05-2026,Salt Lake Stadium Kolkata,11,upcoming
+84,2025-26,Sporting Delhi,Inter Kashi,,,17-05-2026,JLN Stadium Delhi,12,upcoming
+85,2025-26,Kerala Blasters,FC Goa,,,17-05-2026,JLN Stadium Kochi,13,upcoming
+86,2025-26,Chennayin FC,Bengaluru FC,,,17-05-2026,JLN Stadium Chennai,13,upcoming
+87,2025-26,NorthEast United,Mohammedan SC,,,17-05-2026,Indira Gandhi Athletic Stadium,13,upcoming
+88,2025-26,Jamshedpur FC,Odisha FC,,,17-05-2026,JRD Tata Sports Complex,13,upcoming
+89,2025-26,Inter Kashi,East Bengal FC,,,17-05-2026,Kishore Bharati Krirangan,13,upcoming
+90,2025-26,Mohun Bagan Super Giants,Sporting Delhi,,,17-05-2026,Salt Lake Stadium Kolkata,13,upcoming
+91,2025-26,Punjab FC,Mumbai City FC,,,17-05-2026,JLN Stadium Delhi,13,upcoming
