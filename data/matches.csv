@@ -69,14 +69,14 @@ match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,ma
 68,2025-26,Jamshedpur FC,FC Goa,2,0,01-05-2026,JRD Tata Sports Complex,11,completed
 69,2025-26,NorthEast United,Inter Kashi,3,2,02-05-2026,Kishore Bharati Krirangan,11,completed
 70,2025-26,Sporting Delhi,Punjab FC,0,0,02-05-2026,JLN Stadium Delhi,11,completed
-71,2025-26,Odisha FC,Bengaluru FC,,,04-05-2026,Kalinga Stadium,11,upcoming
-72,2025-26,Punjab FC,Chennayin FC,,,06-05-2026,JLN Stadium Delhi,12,upcoming
-73,2025-26,Sporting Delhi,Odisha FC,,,08-05-2026,JLN Stadium Delhi,5,upcoming
-74,2025-26,Mumbai City FC,East Bengal FC,,,08-05-2026,Mumbai Football Arena,12,upcoming
-75,2025-26,FC Goa,Mohun Bagan Super Giants,,,09-05-2026,JLN Stadium Fatorada,12,upcoming
-76,2025-26,Jamshedpur FC,Bengaluru FC,,,09-05-2026,JRD Tata Sports Complex,12,upcoming
-77,2025-26,Kerala Blasters,Mohammedan SC,,,10-05-2026,JLN Stadium Kochi,12,upcoming
-78,2025-26,NorthEast United,Chennayin FC,,,10-05-2026,Indira Gandhi Athletic Stadium,12,upcoming
+71,2025-26,Odisha FC,Bengaluru FC,1,1,04-05-2026,Kalinga Stadium,11,completed
+72,2025-26,Punjab FC,Chennayin FC,1,0,06-05-2026,JLN Stadium Delhi,12,completed
+73,2025-26,Sporting Delhi,Odisha FC,1,2,08-05-2026,JLN Stadium Delhi,5,completed
+74,2025-26,Mumbai City FC,East Bengal FC,1,2,08-05-2026,Mumbai Football Arena,12,completed
+75,2025-26,FC Goa,Mohun Bagan Super Giants,1,1,09-05-2026,JLN Stadium Fatorada,12,completed
+76,2025-26,Jamshedpur FC,Bengaluru FC,0,1,09-05-2026,JRD Tata Sports Complex,12,completed
+77,2025-26,Kerala Blasters,Mohammedan SC,3,1,10-05-2026,JLN Stadium Kochi,12,completed
+78,2025-26,NorthEast United,Chennayin FC,4,1,10-05-2026,Indira Gandhi Athletic Stadium,12,completed
 79,2025-26,East Bengal FC,Punjab FC,,,11-05-2026,Salt Lake Stadium Kolkata,10,upcoming
 80,2025-26,Mohun Bagan Super Giants,Inter Kashi,,,12-05-2026,Salt Lake Stadium Kolkata,10,upcoming
 81,2025-26,Mohammedan SC,Mumbai City FC,,,15-05-2026,Kishore Bharati Krirangan,11,upcoming
