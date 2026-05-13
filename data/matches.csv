@@ -77,8 +77,8 @@ match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,ma
 76,2025-26,Jamshedpur FC,Bengaluru FC,0,1,09-05-2026,JRD Tata Sports Complex,12,completed
 77,2025-26,Kerala Blasters,Mohammedan SC,3,1,10-05-2026,JLN Stadium Kochi,12,completed
 78,2025-26,NorthEast United,Chennayin FC,4,1,10-05-2026,Indira Gandhi Athletic Stadium,12,completed
-79,2025-26,East Bengal FC,Punjab FC,,,11-05-2026,Salt Lake Stadium Kolkata,10,upcoming
-80,2025-26,Mohun Bagan Super Giants,Inter Kashi,,,12-05-2026,Salt Lake Stadium Kolkata,10,upcoming
+79,2025-26,East Bengal FC,Punjab FC,0,0,11-05-2026,Salt Lake Stadium Kolkata,10,completed
+80,2025-26,Mohun Bagan Super Giants,Inter Kashi,0,0,12-05-2026,Salt Lake Stadium Kolkata,10,completed
 81,2025-26,Mohammedan SC,Mumbai City FC,,,15-05-2026,Kishore Bharati Krirangan,11,upcoming
 82,2025-26,Odisha FC,Punjab FC,,,16-05-2026,Kalinga Stadium,1,upcoming
 83,2025-26,Mohun Bagan Super Giants,East Bengal FC,,,17-05-2026,Salt Lake Stadium Kolkata,11,upcoming
