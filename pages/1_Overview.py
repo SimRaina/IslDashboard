@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from utils.loader import load_data, get_current_season, get_completed_matches
+from utils.loader import load_data, get_current_season
 from utils.standings import calculate_standings
 from utils.styles import apply_dark_theme
 from utils.components import display_match_result
@@ -14,7 +14,8 @@ st.title("⚽ Indian Super League Dashboard 2026")
 st.markdown("**Explore teams, players, seasons, and analytics in one place.**")
 
 # Key metrics
-completed_matches = get_completed_matches(matches, current_season)
+season_matches = matches[matches["season"] == current_season]
+completed_matches = season_matches[season_matches["match_status"] == "completed"]
 total_goals = completed_matches["home_goals"].sum() + completed_matches["away_goals"].sum()
 total_matches = len(completed_matches)
 top_scorer = players.sort_values(by="goals", ascending=False).iloc[0]
