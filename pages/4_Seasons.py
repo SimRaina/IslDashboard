@@ -1,9 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from utils.loader import load_data
+from utils.loader import load_data, get_current_season
 
 teams, players, matches, seasons, teams_socials = load_data()
+current_season = get_current_season()
+
 st.markdown("""
     <style>
     body {
@@ -19,8 +21,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 st.title("📅 Seasons")
 
-# Season selector
-season_selected = st.selectbox("Select Season", seasons["season"])
+# Season selector with current season as default
+available_seasons = seasons["season"].unique().tolist()
+default_index = available_seasons.index(current_season) if current_season in available_seasons else 0
+season_selected = st.selectbox("Select Season", available_seasons, index=default_index)
 
 season_data = seasons[seasons["season"] == season_selected].iloc[0]
 

@@ -113,7 +113,7 @@ with tab1:
         xaxis_title="Season",
         yaxis_title="League Position",
         hovermode="x unified",
-        height=400,
+        height=600,
         template="plotly_dark",
         yaxis=dict(
             autorange="reversed",  # Reverse so position 1 is at top
@@ -126,11 +126,13 @@ with tab1:
             yanchor="top",
             y=0.99,
             xanchor="left",
-            x=0.01,
+            x=1.02,  # Move legend outside chart to the right
             bgcolor="rgba(0,0,0,0.5)",
             bordercolor="white",
-            borderwidth=1
-        )
+            borderwidth=1,
+            font=dict(size=10)
+        ),
+        margin=dict(r=300)  # Add right margin to accommodate legend
     )
     
     st.plotly_chart(fig, use_container_width=True)

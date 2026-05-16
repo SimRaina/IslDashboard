@@ -1,4 +1,5 @@
 import streamlit as st
+from utils.styles import apply_dark_theme
 
 st.set_page_config(
     page_title="ISL Dashboard",
@@ -6,19 +7,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.markdown("""
-    <style>
-    body {
-        background-color: #0e1117;
-        color: white;
-    }
-    .stMetric {
-        background-color: #1c1f26;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    </style>
-""", unsafe_allow_html=True)
+apply_dark_theme()
 
 st.title("⚽ Indian Super League Dashboard 2026")
 st.markdown("**Your complete platform for ISL data analysis, team evaluation, and professional scouting.**")

@@ -1,23 +1,12 @@
 import streamlit as st
 import pandas as pd
-from utils.loader import load_data, get_current_season, get_available_seasons
+from utils.loader import load_data, get_current_season, get_available_seasons, get_completed_matches
 from utils.standings import calculate_standings
+from utils.styles import apply_dark_theme
 
 st.set_page_config(page_title="ISL Standings", layout="wide")
 
-st.markdown("""
-    <style>
-    body {
-        background-color: #0e1117;
-        color: white;
-    }
-    .stMetric {
-        background-color: #1c1f26;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    </style>
-""", unsafe_allow_html=True)
+apply_dark_theme()
 
 st.title("🏆 League Standings")
 
@@ -33,8 +22,9 @@ selected_season = st.selectbox(
     index=available_seasons.index(current_season) if current_season in available_seasons else 0
 )
 
-# Calculate and display standings
-standings = calculate_standings(matches, teams, selected_season)
+# Calculate and display standings - only use completed matches
+completed_matches = get_completed_matches(matches, selected_season)
+standings = calculate_standings(completed_matches, teams, selected_season)
 
 st.subheader(f"2025-26 Season Standings")
 
@@ -61,23 +51,20 @@ st.markdown("---")
 # Additional stats
 col1, col2, col3 = st.columns(3)
 
-total_goals = matches[matches["season"] == selected_season]["home_goals"].sum() + \
-              matches[matches["season"] == selected_season]["away_goals"].sum()
-total_matches = len(matches[(matches["season"] == selected_season) & (matches["match_status"] == "completed")])
+total_goals = completed_matches["home_goals"].sum() + completed_matches["away_goals"].sum()
+total_matches_played = len(completed_matches)
 
-col1.metric("Total Matches Played", total_matches)
+col1.metric("Total Matches Played", total_matches_played)
 col2.metric("Total Goals Scored", int(total_goals))
-col3.metric("Avg Goals per Match", f"{total_goals / total_matches:.2f}" if total_matches > 0 else "0")
+col3.metric("Avg Goals per Match", f"{total_goals / total_matches_played:.2f}" if total_matches_played > 0 else "0")
 
 st.markdown("---")
 st.subheader("Home vs Away Performance")
 
 home_away_stats = []
 for team in standings["team_name"]:
-    team_matches = matches[(matches["season"] == selected_season) & (matches["match_status"] == "completed")]
-    
-    home = team_matches[team_matches["home_team"] == team]
-    away = team_matches[team_matches["away_team"] == team]
+    home = completed_matches[completed_matches["home_team"] == team]
+    away = completed_matches[completed_matches["away_team"] == team]
     
     home_wins = len(home[home["home_goals"] > home["away_goals"]])
     away_wins = len(away[away["away_goals"] > away["home_goals"]])
