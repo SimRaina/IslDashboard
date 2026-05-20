@@ -82,10 +82,10 @@ match_id,season,home_team,away_team,home_goals,away_goals,date,venue,gameweek,ma
 81,2025-26,Mohammedan SC,Mumbai City FC,0,4,15-05-2026,Kishore Bharati Krirangan,11,completed
 82,2025-26,Odisha FC,Punjab FC,3,4,16-05-2026,Kalinga Stadium,1,completed
 83,2025-27,Chennayin FC,Bengaluru FC,1,2,16-05-2026,JLN Stadium Chennai,13,completed
-84,2025-26,Mohun Bagan Super Giants,East Bengal FC,,,17-05-2026,Salt Lake Stadium Kolkata,11,upcoming
-85,2025-26,Sporting Delhi,Inter Kashi,,,17-05-2026,JLN Stadium Delhi,12,upcoming
-86,2025-26,Kerala Blasters,FC Goa,,,18-05-2026,JLN Stadium Kochi,13,upcoming
-87,2025-26,NorthEast United,Mohammedan SC,,,19-05-2026,Indira Gandhi Athletic Stadium,13,upcoming
+84,2025-26,Mohun Bagan Super Giants,East Bengal FC,1,1,17-05-2026,Salt Lake Stadium Kolkata,11,completed
+85,2025-26,Sporting Delhi,Inter Kashi,0,0,17-05-2026,JLN Stadium Delhi,12,completed
+86,2025-26,Kerala Blasters,FC Goa,2,1,18-05-2026,JLN Stadium Kochi,13,completed
+87,2025-26,NorthEast United,Mohammedan SC,2,0,19-05-2026,Indira Gandhi Athletic Stadium,13,completed
 88,2025-26,Jamshedpur FC,Odisha FC,,,21-05-2026,JRD Tata Sports Complex,13,upcoming
 89,2025-26,Punjab FC,Mumbai City FC,,,21-05-2026,JLN Stadium Delhi,13,upcoming
 90,2025-26,Inter Kashi,East Bengal FC,,,21-05-2026,Kishore Bharati Krirangan,13,upcoming
